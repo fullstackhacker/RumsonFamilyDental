@@ -1,0 +1,38 @@
+body { 
+}
+
+.size-1-5 { 
+    font-size: 1.5em; 
+}
+
+.fa-size {
+    font-size: 2em;
+}
+
+
+#description { 
+    margin-top: 1.8%; 
+}
+
+#contact {
+    margin-top: 5%;
+    background-color: #f0f0f0;
+}
+
+
+.nl { 
+    display: block;
+}
+
+#dentist-profile {
+    margin-top: 1.8%;
+}
+
+.img-center { 
+    display: block; 
+    margin: 0 auto; 
+}
+
+.img-fancy {
+    border-radius: 25px;
+}
